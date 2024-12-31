@@ -1,6 +1,6 @@
 # Vesrion erpnext-1.0
 
-- It is standard app provided by frappe-bench
+1. It is standard app provided by frappe-bench
 
 # Vesrion erpnext-1.1
 
